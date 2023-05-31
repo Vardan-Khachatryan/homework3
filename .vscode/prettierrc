@@ -1,0 +1,4 @@
+{
+     "arrowParens": "avoid", // Omit parenthesis when possible. Example: `x => x`. If set to "always", the example would be` (x) => x`
+     "semi": false // removes semicolons at the end of JavaScript statements
+   }
